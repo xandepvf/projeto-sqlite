@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Minhas Tarefas 🚀</h1>
+      <h1>Minhas Tarefas </h1>
       
       {/* Formulário para adicionar */}
       <form className="input-group" onSubmit={adicionarTarefa}>
